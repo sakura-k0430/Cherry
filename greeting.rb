@@ -8,5 +8,5 @@ greeting =
   elsif country == 'italy'
     puts 'Ciao'
   else
-    '???'
+    puts '???'
   end
